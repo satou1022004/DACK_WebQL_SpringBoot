@@ -110,7 +110,7 @@ spring.datasource.password=<mật khẩu MySQL của bạn>
 mvnw.cmd spring-boot:run
 ```
 
-Mở trình duyệt tại: **http://localhost:8080**
+Mở trình duyệt tại: **http://localhost:8081**
 
 ---
 
